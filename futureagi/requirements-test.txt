@@ -473,7 +473,7 @@ mypy-extensions==1.1.0
     # via typing-inspect
 newrelic==10.14.0
     # via core-backend (pyproject.toml)
-nltk==3.8.1
+nltk==3.10.3
     # via
     #   core-backend (pyproject.toml)
     #   rouge-score

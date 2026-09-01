@@ -588,7 +588,7 @@ networkx==3.6.1
     # via torch
 nexus-rpc==1.2.0
     # via temporalio
-nltk==3.8.1
+nltk==3.10.3
     # via
     #   core-backend (pyproject.toml)
     #   rouge-score
