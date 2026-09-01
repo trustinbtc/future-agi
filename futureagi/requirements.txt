@@ -1304,7 +1304,7 @@ traceai-openai==0.1.9
     # via core-backend (pyproject.toml)
 traceai-vertexai==0.1.9
     # via core-backend (pyproject.toml)
-transformers==4.53.0
+transformers==5.10.1
     # via core-backend (pyproject.toml)
 triton==3.6.0
     # via torch
