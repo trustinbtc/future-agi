@@ -715,7 +715,7 @@ pymongo==4.13.2
     # via core-backend (pyproject.toml)
 pyopenssl==24.2.1
     # via pysaml2
-pypdf==5.7.0
+pypdf==6.16.1
     # via core-backend (pyproject.toml)
 pypika==0.48.9
     # via chromadb
