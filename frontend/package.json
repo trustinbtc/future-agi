@@ -173,7 +173,7 @@
     "eslint-plugin-unused-imports": "^3.0.0",
     "jsdom": "^26.1.0",
     "msw": "^2.7.5",
-    "orval": "8.9.1",
+    "orval": "8.22.0",
     "prettier": "3.3.0",
     "puppeteer-core": "^24.42.0",
     "storybook": "^9.1.20",
