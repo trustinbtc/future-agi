@@ -1278,7 +1278,7 @@ torchvision==0.25.0
     # via
     #   core-backend (pyproject.toml)
     #   torch-fidelity
-tornado==6.5.1
+tornado==6.5.8
     # via flower
 tqdm==4.67.1
     # via
