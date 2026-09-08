@@ -432,7 +432,7 @@ levenshtein==0.27.1
     # via python-levenshtein
 librosa==0.11.0
     # via core-backend (pyproject.toml)
-litellm==1.68.1
+litellm==1.84.0
     # via
     #   core-backend (pyproject.toml)
 llvmlite==0.44.0

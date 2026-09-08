@@ -526,7 +526,7 @@ librosa==0.11.0
     # via core-backend (pyproject.toml)
 lightning-utilities==0.15.2
     # via torchmetrics
-litellm==1.81.11
+litellm==1.84.0
     # via
     #   core-backend (pyproject.toml)
     #   traceai-litellm
