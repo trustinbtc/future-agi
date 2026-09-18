@@ -18,7 +18,7 @@ annotated-types==0.7.0
     # via pydantic
 anthropic==0.56.0
     # via core-backend (pyproject.toml)
-anyio==4.9.0
+anyio==4.14.2
     # via
     #   anthropic
     #   google-genai
