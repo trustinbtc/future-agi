@@ -705,7 +705,7 @@ pydub==0.25.1
     # via core-backend (pyproject.toml)
 pygments==2.19.2
     # via rich
-pyjwt==2.9.0
+pyjwt==2.14.0
     # via
     #   core-backend (pyproject.toml)
     #   djangorestframework-simplejwt
