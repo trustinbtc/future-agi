@@ -26,7 +26,7 @@ anthropic==0.55.0
     # via
     #   core-backend (pyproject.toml)
     #   traceai-anthropic
-anyio==4.9.0
+anyio==4.14.2
     # via
     #   anthropic
     #   google-genai
@@ -164,7 +164,7 @@ confection==0.1.5
     #   weasel
 cron-descriptor==1.4.5
     # via django-celery-beat
-cryptography==43.0.3
+cryptography==50.0.0
     # via
     #   authlib
     #   pdfminer-six
@@ -404,7 +404,7 @@ hdbscan==0.8.40
     # via core-backend (pyproject.toml)
 hf-xet==1.1.5
     # via huggingface-hub
-hpack==4.1.0
+hpack==4.2.0
     # via h2
 httpcore==1.0.9
     # via httpx
@@ -526,7 +526,7 @@ librosa==0.11.0
     # via core-backend (pyproject.toml)
 lightning-utilities==0.15.2
     # via torchmetrics
-litellm==1.81.11
+litellm==1.88.6
     # via
     #   core-backend (pyproject.toml)
     #   traceai-litellm
@@ -588,7 +588,7 @@ networkx==3.6.1
     # via torch
 nexus-rpc==1.2.0
     # via temporalio
-nltk==3.8.1
+nltk==3.10.3
     # via
     #   core-backend (pyproject.toml)
     #   rouge-score
@@ -660,7 +660,7 @@ nvidia-nvshmem-cu12==3.4.5
     # via torch
 nvidia-nvtx-cu12==12.8.90
     # via torch
-oauthlib==3.3.1
+oauthlib==4.0.0
     # via
     #   kubernetes
     #   requests-oauthlib
@@ -1002,7 +1002,7 @@ pydub==0.25.1
     # via core-backend (pyproject.toml)
 pygments==2.19.2
     # via rich
-pyjwt==2.12.1
+pyjwt==2.15.0
     # via
     #   core-backend (pyproject.toml)
     #   djangorestframework-simplejwt
@@ -1197,7 +1197,7 @@ soundfile==0.13.1
     # via
     #   core-backend (pyproject.toml)
     #   librosa
-soupsieve==2.8.3
+soupsieve==2.9
     # via beautifulsoup4
 soxr==0.5.0.post1
     # via librosa
