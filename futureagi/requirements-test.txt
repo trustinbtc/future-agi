@@ -184,7 +184,7 @@ django-socio-grpc==0.24.4
     # via core-backend (pyproject.toml)
 django-timezone-field==7.1
     # via django-celery-beat
-djangorestframework==3.16.0
+djangorestframework==3.17.2
     # via
     #   core-backend (pyproject.toml)
     #   django-socio-grpc
