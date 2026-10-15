@@ -907,7 +907,7 @@ tokenizers==0.21.2
     #   chromadb
     #   litellm
     #   transformers
-tornado==6.5.1
+tornado==6.5.8
     # via flower
 tqdm==4.67.1
     # via
